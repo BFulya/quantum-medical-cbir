@@ -1,0 +1,29 @@
+
+# Python Virtual Environment
+.venv/
+venv/
+
+# Medical Image Dataset
+data/
+
+# Intermediate Feature Files
+results/*.npz
+
+# Other Project Folder
+QuantumHomework/
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# Environment Variables
+.env
+.env.*
+
+# VS Code Settings
+.vscode/
+
+# System Files
+.DS_Store
+Thumbs.db
+

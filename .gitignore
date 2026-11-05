@@ -1,0 +1,9 @@
+﻿.venv/
+data/
+QuantumHomework/
+results/*.npz
+__pycache__/
+*.pyc
+.env
+.env.*
+.vscode/
